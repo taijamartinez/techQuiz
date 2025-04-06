@@ -1,0 +1,12 @@
+[
+    {
+      "question": "What is React?",
+      "answers": [
+        { "text": "A framework", "isCorrect": false },
+        { "text": "A library", "isCorrect": true },
+        { "text": "A database", "isCorrect": false },
+        { "text": "A language", "isCorrect": false }
+      ]
+    }
+  ]
+  

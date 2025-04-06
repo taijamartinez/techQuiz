@@ -97,7 +97,7 @@ If you would like to contribute to my project please follow these steps!
 
 ## Project Links
 
-Repository: https://github.com/taijamartinez/techQuiz <br>
+Repository: https://github.com/taijamartinez/techQuiz <br><br>
 Project Screen Recording: https://www.loom.com/share/94f8b838b31b44b69024e59b60a31ac6?sid=7d1cefea-96c3-4ca8-b808-e34f44375e9b
 
 

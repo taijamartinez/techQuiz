@@ -17,7 +17,7 @@ describe('Tech Quiz E2E Test', () => {
       cy.contains('Quiz Completed').should('exist');
       cy.contains('Take New Quiz').click();
   
-      cy.wait('@getQuestions'); // ✅ wait for new quiz to load again
+      cy.wait('@getQuestions'); // wait for new quiz to load again
   
       cy.get('h2').should('exist'); // now it's safe to assert
     });

@@ -21,7 +21,7 @@ Take a quiz of ten random questions and view the final score.
 
 ## Screenshots
 
-Here are some previews of the web page:
+Here are some previews of the web page and testing:
 
 ###  Test Questions
 <img src="client/assets/localhostquiz.jpg" width="300">
